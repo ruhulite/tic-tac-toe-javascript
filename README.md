@@ -1,2 +1,2 @@
-# tic-tac-toe-javascript
+# Tic-Tac-Toe-Javascript
 Develop a Tic Tac Toe Game using Javascript
